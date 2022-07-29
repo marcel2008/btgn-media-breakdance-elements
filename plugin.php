@@ -2,10 +2,10 @@
 
 /**
  * Plugin Name: Breakdance Custom Elements
- * Plugin URI: https://breakdance.com/
- * Description: ALPHA - NOT TO BE USED IN PRODUCTION
+ * Plugin URI: https://btgn.media/
+ * Description: Custom Elements for Breakdance BageBuilder
  * Author: Breakdance
- * Author URI: https://breakdance.com/
+ * Author URI: https://btgn.media/
  * License: GPLv2
  * Text Domain: breakdance
  * Domain Path: /languages/
