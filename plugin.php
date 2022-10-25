@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Breakdance Custom Elements
+ * Plugin Name: #btgn.media Breakdance Custom Elements
  * Plugin URI: https://btgn.media/
  * Description: Custom Elements for Breakdance BageBuilder
  * Author: Breakdance
